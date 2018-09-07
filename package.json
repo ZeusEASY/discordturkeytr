@@ -1,29 +1,16 @@
 {
-“name”: “rembot”,
-“version”: “1.0”,
-“description”: “Test bot”,
-“main”: “node rem.js”,
-“scripts”: {
-“test”: “echo “Error: no test specified” && exit 1”,
-“start”: “node rem.js”
-},
-“dependencies”: {
-“express”: “^4.16.3”,
-“discord.js”: “^11.3.2”,
-“enmap”: “^2.1.0”,
-“moment”: “^2.22.0”,
-“moment-duration-format”: “^2.2.2”
-},
-“engines”: {
-“node”: “8.4.0”
-},
-“repository”: {
-“url”: “https://glitch.com/edit/#!/intothefantasy 2”
-},
-“license”: “MIT”,
-“keywords”: [
-“node”,
-“glitch”,
-“express”
-]
+  "name": "emırhansarac",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Emirhan",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "moment": "^2.22.2",
+    "ms": "^2.1.1"
+  }
 }
