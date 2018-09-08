@@ -14,3 +14,7 @@
     "ms": "^2.1.1"
   }
 }
+app.use(favicon(__dirname + '/public/favicon.ico'));
+before
+app.use(express.static('public'));
+in my server.js
